@@ -1,0 +1,20 @@
+{
+  "name": "asynchronous_programing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dduohereshui/asynchronous_programing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dduohereshui/asynchronous_programing/issues"
+  },
+  "homepage": "https://github.com/dduohereshui/asynchronous_programing#readme"
+}
