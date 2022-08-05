@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dduohereshui/asynchronous_programing/issues"
   },
-  "homepage": "https://github.com/dduohereshui/asynchronous_programing#readme"
+  "homepage": "https://github.com/dduohereshui/asynchronous_programing#readme",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
 }
